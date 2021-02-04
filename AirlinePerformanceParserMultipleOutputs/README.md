@@ -10,3 +10,5 @@ So, we can use `MultipleOutputs`. This can be made a multiple outputs files.
 * Instead of Context, using `MultipleOutputs.write()`
 * Parameter is an ("output directory name", outputkey, output value)
 
+### Results
+![img.png](img.png)

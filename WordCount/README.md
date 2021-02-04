@@ -8,3 +8,4 @@
 * you must using output directory which does not exist.
 
 ### Output file is 'part-r-00000'
+If you want to see, go output directory.
