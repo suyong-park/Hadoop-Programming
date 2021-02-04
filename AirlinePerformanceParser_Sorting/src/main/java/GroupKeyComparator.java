@@ -11,6 +11,7 @@ public class GroupKeyComparator extends WritableComparator {
     @SuppressWarnings("rawtypes")
     @Override
     public int compare(WritableComparable w1, WritableComparable w2) {
+        // grouping key 값인 연도를 비교하는 처리가 필요하다. 따라서, compare 메소드를 재정의하여 2개의 복합키의 연도값을 비교하는 코드를 작성한다.
         DateKey k1 = (DateKey) w1;
         DateKey k2 = (DateKey) w2;
 
