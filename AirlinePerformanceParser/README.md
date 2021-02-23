@@ -9,4 +9,4 @@ In fact, this MapReduce code is very similar wordcount code. very simple.
 `Dataset : 1987 ~ 2008`
 
 #### Results
-![img_1.png](img_1.png)
+![img_2.png](img_2.png)

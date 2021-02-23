@@ -11,4 +11,5 @@ So, we can use `MultipleOutputs`. This can be made a multiple outputs files.
 * Parameter is an ("output directory name", outputkey, output value)
 
 ### Results
-![img.png](img.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
